@@ -1,0 +1,67 @@
+{
+  "name": "one-pack-master",
+  "displayName": "One Pack Master",
+  "author": {
+    "name": "Diaz Djuliansyah",
+    "email": "diazdjul19@gmail.com"
+  },
+  "publisher": "devLocifer",
+  "description": "A collection of essential VS Code extensions for developers.",
+  "icon": "resources/icon.png",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.101.0"
+  },
+  "categories": [
+    "Extension Packs",
+    "Linters",
+    "Formatters",
+    "Themes",
+    "Programming Languages",
+    "SCM Providers",
+    "Snippets",
+    "Other"
+  ],
+  "keywords": [
+    "vscode",
+    "extension pack",
+    "tailwindcss",
+    "eslint",
+    "prettier",
+    "git",
+    "gitlens",
+    "live server",
+    "auto import",
+    "auto rename tag",
+    "material icon",
+    "spell checker",
+    "copilot",
+    "web development",
+    "javascript",
+    "typescript",
+    "frontend",
+    "productivity",
+    "developer tools"
+  ],
+  "extensionPack": [
+    "bradlc.vscode-tailwindcss",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "eamodio.gitlens",
+    "ritwickdey.LiveServer",
+    "steoates.autoimport",
+    "formulahendry.auto-rename-tag",
+    "pkief.material-icon-theme",
+    "streetsidesoftware.code-spell-checker",
+    "github.copilot"
+  ],
+  "__metadata": {
+    "installedTimestamp": 1751427637663,
+    "targetPlatform": "undefined",
+    "size": 34990
+  }
+}
