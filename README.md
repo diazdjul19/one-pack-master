@@ -58,7 +58,7 @@ This extension pack automatically installs the following essential extensions:
 
 - **[GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=github.copilot)** - AI pair programmer that helps you write code faster
 
-## 🛠️ Installation
+## Installation
 
 ### Via VS Code Marketplace
 
@@ -73,7 +73,7 @@ This extension pack automatically installs the following essential extensions:
 code --install-extension devLocifer.one-pack-master
 ```
 
-## ⚡ Quick Start
+## Quick Start
 
 After installation, all extensions will be automatically installed and ready to use. Here are some quick tips to get started:
 
@@ -82,7 +82,7 @@ After installation, all extensions will be automatically installed and ready to 
 3. **Set up ESLint** - Add an `.eslintrc` file for code linting rules
 4. **Start Live Server** - Right-click on an HTML file and select "Open with Live Server"
 
-## 🔧 Recommended Settings
+## Recommended Settings
 
 Add these settings to your VS Code `settings.json` for the best experience:
 
@@ -117,7 +117,7 @@ Add these settings to your VS Code `settings.json` for the best experience:
 
 Found a bug or have a suggestion? We'd love to hear from you!
 
-- **Issues**: [Report bugs or request features](https://github.com/devLocifer/one-pack-master/issues)
+- **Issues**: [Report bugs or request features](https://github.com/diazdjul19/one-pack-master/issues)
 - **Email**: [diazdjul19@gmail.com](mailto:diazdjul19@gmail.com)
 
 ## License
@@ -130,13 +130,3 @@ This extension pack is released under the [MIT License](LICENSE).
 
 - Email: [diazdjul19@gmail.com](mailto:diazdjul19@gmail.com)
 - Publisher: devLocifer
-
----
-
-<div align="center">
-
-**⭐ If this extension pack helped you, please consider giving it a star!**
-
-[Install Now](https://marketplace.visualstudio.com/items?itemName=devLocifer.one-pack-master) | [Report Issues](https://github.com/devLocifer/one-pack-master/issues) | [Rate & Review](https://marketplace.visualstudio.com/items?itemName=devLocifer.one-pack-master&ssr=false#review-details)
-
-</div>
