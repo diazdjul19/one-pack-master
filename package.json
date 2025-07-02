@@ -10,7 +10,7 @@
   "icon": "resources/icon.png",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/diazdjul19/one-pack-master.git"
   },
   "version": "1.0.0",
   "engines": {
